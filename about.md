@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a student from DCGS. I have 2 brothers
 
 ### More Information
 
