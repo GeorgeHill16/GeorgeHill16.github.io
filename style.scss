@@ -24,7 +24,8 @@ body {
 }
 
 .container {
-  margin: 1px auto;
+  p.solid {border-style: solid;}
+	margin: 1px auto;
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
