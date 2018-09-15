@@ -8,7 +8,7 @@ I am a student from DCGS. I have 2 brothers
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My favourite sport is rugby.
 
 ### Contact me
 
