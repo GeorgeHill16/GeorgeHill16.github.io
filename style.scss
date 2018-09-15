@@ -18,13 +18,15 @@ html {
 }
 
 body {
+	 border-radius: 25px;
 	background-image: url("https://www.wallpapersbrowse.com/images/fu/fuxdzij.jpg");
   font-family: "Courier New", "Lucida console", Monospace;
   color: $darkGray;
 }
 
 .container {
-  background: #0000ff;
+  border-radius: 25px;
+	background: #0000ff;
 	p.solid {border-style: solid;}
 	margin: 1px auto;
   max-width: 740px;
