@@ -16,6 +16,15 @@
 html {
   font-size: 100%;
 }
+table, th, td {
+    border: 3px solid black;
+}
+
+table {
+    border-collapse: collapse;
+width: 100%;
+	border: 3px solid black;
+}
 
 body {
 	background-image: url("http://impfashion.com/wp-content/uploads/2014/03/Cool-Backgrounds-7.jpg");
